@@ -5,9 +5,9 @@ import AddTodo from "./compotents/AddTodo/AddTodo";
 
 export default function App() {
   const [todos, setState] = useState([
-    { id: 1, text: "Важное дела номер 1", isCompleted: false },
-    { id: 2, text: "Важное дела номер 2", isCompleted: false },
-    { id: 3, text: "Важное дела номер 3", isCompleted: false },
+    { id: 1, text: "Важная дела номер 1", isCompleted: false },
+    { id: 2, text: "Важная дела номер 2", isCompleted: false },
+    { id: 3, text: "Важная дела номер 3", isCompleted: false },
   ]);
 
   return (
