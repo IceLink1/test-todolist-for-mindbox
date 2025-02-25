@@ -1,0 +1,17 @@
+.TodoItem__item__completed {
+  text-decoration: line-through;
+  color: #ccc;
+}
+.TodoItem__item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 40px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+.TodoItem__input{
+    width: 20px ;
+    height: 20px;
+}

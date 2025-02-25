@@ -1,0 +1,9 @@
+.AddTodo__input{
+    height: 30px;
+    margin: 10px 0px;
+    padding: 2px;
+    width: 100%;
+    border: 1px solid #ccc;
+    font-size: larger;
+    outline: none;
+}
